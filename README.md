@@ -6,17 +6,24 @@ enquiries and portals for staff and parents with an online application facility.
 
 TECHNOLOGIES USED
 
-HTML
+-HTML
+-CSS
+-SCSS
+-JAVASCRIPT
+-BOOTSTRAP
+-PHP
+-SQL
 
-CSS
+Workflow
 
-SCSS
-
-JAVASCRIPT
-
-BOOTSTRAP
-
-PHP
-
-SQL
-
+- Home Page
+- About Us
+- Job Application form
+- Enrollment
+- Parent Login
+- Parent Signup
+- Parent Portal
+- Staff Login
+- Staff Signup
+- Staff Portal
+- Contact Page
