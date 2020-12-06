@@ -7,11 +7,17 @@ enquiries and portals for staff and parents with an online application facility.
 TECHNOLOGIES USED
 
 -HTML
+
 -CSS
+
 -SCSS
+
 -JAVASCRIPT
+
 -BOOTSTRAP
+
 -PHP
+
 -SQL
 
 Workflow
